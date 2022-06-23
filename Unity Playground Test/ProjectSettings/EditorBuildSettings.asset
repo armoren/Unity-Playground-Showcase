@@ -23,10 +23,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Examples/Roguelike/Roguelike.unity
     guid: ad15a26015e49439387b05c22fe7a962
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Test Spaceship.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
     path: Assets/Scenes/Broken Space Game.unity
     guid: 916d99948a4a86d4f930832a409647b3
+  - enabled: 1
+    path: Assets/Scenes/Buggy Spaceship.unity
+    guid: be30041e8d84879468b0fe057792e02d
   m_configObjects: {}
